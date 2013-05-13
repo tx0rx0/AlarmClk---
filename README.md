@@ -1,4 +1,4 @@
 AlarmClk---
 ===========
 
-AlarmClock+++
+Beginning code for a new clock prototype
